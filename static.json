@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 {
-  "root": "public_html/"
-  "routes": {
-    "/*.html": "index.html"
-  }
+  "root": "public"
 }
 =======
 {"root":"public"}
