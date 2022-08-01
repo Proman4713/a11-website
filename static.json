@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 {
   "root": "public_html/"
   "routes": {
     "/*.html": "index.html"
   }
 }
+=======
+{"root":"public"}
+>>>>>>> parent of 22eda74 (Update static.json)
